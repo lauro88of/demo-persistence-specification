@@ -9,3 +9,8 @@ Insert make in initialize Application.
 http://localhost:8080/products?search=
 
 Exemplo: http://localhost:8080/products?search=code%2BEQ%2B2021,name%2BLK%2BSHIT
+
+Exemplo: ![Use the Postman!](postman.png)
+
+
+Exemplo: ![Use in coding!](service.png)
